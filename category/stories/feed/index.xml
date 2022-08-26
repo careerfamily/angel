@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Angel Roden</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<title>Stories &#8211; Angel Roden</title>
+	<atom:link href="/category/stories/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Personal Life</description>
 	<lastBuildDate>Fri, 26 Aug 2022 15:05:01 +0000</lastBuildDate>
