@@ -83,7 +83,7 @@ let typed_text = document.querySelector('.multiple-text');
 // empty initial value so it doesn't pop; initial value is for noScript folks
 typed_text.innerHTML = "";
 const typed = new Typed(typed_text, {
-    strings: ['Administrative Assistant','Website Developer','Blogger'],
+    strings: ['Administrative Services Manager','Website Developer','Blogger'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
